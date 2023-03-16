@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "knitLatex"]
+	path = knitLatex
+	url = https://github.com/coachshea/knitlatex
+	shallow = true
+	registered = true
